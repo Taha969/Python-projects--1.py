@@ -20,3 +20,15 @@ To run this game, you only need:
 Python 3.x
 
 turtle library: This is a standard library included with most Python installations, so no additional installation is typically required.
+
+
+▶️ How to Run
+
+Save the Code: Save the provided Python code in a single file, for example, pong_game.py.
+
+Execute: Open your command line (Command Prompt or Terminal) and navigate to the directory where you saved the file.
+
+Run: Execute the file using the Python command:
+
+python pong_game.py
+
