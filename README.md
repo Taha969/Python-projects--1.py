@@ -37,35 +37,17 @@ python pong_game.py
 
 The game is designed to be played by two players on the same keyboard.
 
-Player
+Player                          |  Movement      |  Key :
 
-Movement
 
-Key
+Player 1 (Blue Paddle - Left)   |   Up         |     W
 
-Player 1 (Blue Paddle - Left)
+Player 1 (Blue Paddle - Left)   | Down         |     S
 
-Up
+Player 2 (Red Paddle - Right)   |  Up          |  Up Arrow (Up)
 
-W
+Player 2 (Red Paddle - Right)   | Down         |  Down Arrow (Down)
 
-Player 1 (Blue Paddle - Left)
-
-Down
-
-S
-
-Player 2 (Red Paddle - Right)
-
-Up
-
-Up Arrow (Up)
-
-Player 2 (Red Paddle - Right)
-
-Down
-
-Down Arrow (Down)
 
 📝 Main Code Structure
 
