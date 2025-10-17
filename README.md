@@ -11,3 +11,12 @@ Score Keeping: A point is awarded when the ball passes the opponent's paddle.
 Simple GUI: The turtle library is used to create the game window, paddles, and ball.
 
 Colored Background (#359d9f)
+
+
+⚙️ Requirements
+
+To run this game, you only need:
+
+Python 3.x
+
+turtle library: This is a standard library included with most Python installations, so no additional installation is typically required.
