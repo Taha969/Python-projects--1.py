@@ -32,3 +32,47 @@ Run: Execute the file using the Python command:
 
 python pong_game.py
 
+
+🎮 Controls
+
+The game is designed to be played by two players on the same keyboard.
+
+Player
+
+Movement
+
+Key
+
+Player 1 (Blue Paddle - Left)
+
+Up
+
+W
+
+Player 1 (Blue Paddle - Left)
+
+Down
+
+S
+
+Player 2 (Red Paddle - Right)
+
+Up
+
+Up Arrow (Up)
+
+Player 2 (Red Paddle - Right)
+
+Down
+
+Down Arrow (Down)
+
+📝 Main Code Structure
+
+Setup: The game window is created, and its dimensions (800x600) and color are set.
+
+Objects: The two paddles (player1, player2), the ball (ball), the center line (center_line), and the score display (score) are initialized.
+
+Movement Functions: Functions for paddle movement are defined and bound to keyboard keys using window.onkeypress.
+
+Game Loop: A continuous while True loop updates the ball's position, checks for collisions with walls and paddles, and updates the score when a goal is scored.
