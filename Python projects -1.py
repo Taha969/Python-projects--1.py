@@ -103,4 +103,3 @@ while True:
         score.clear()
         p2_score += 1
         score.write(f"Player1: {p1_score} Player2: {p2_score}", align="center", font=("Courier", 14, "normal")) 
-
