@@ -6,7 +6,6 @@ window.setup(width=800, height=600)
 window.tracer(0)
 window.bgcolor("#359d9f")
 
-
 ball = turtle.Turtle()
 ball.speed(0)
 ball.shape("square")
@@ -104,3 +103,4 @@ while True:
         score.clear()
         p2_score += 1
         score.write(f"Player1: {p1_score} Player2: {p2_score}", align="center", font=("Courier", 14, "normal")) 
+
